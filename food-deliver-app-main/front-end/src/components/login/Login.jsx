@@ -103,9 +103,8 @@ class Login extends React.Component {
               </Link>
               <Box mt={5}>
                 <Typography variant="body2" color="textSecondary" align="center">
-                  {'Copyright © NEUEat '}
-                  {new Date().getFullYear()}
-                  {'.'}
+                  
+                 
                 </Typography>
               </Box>
             </form>
