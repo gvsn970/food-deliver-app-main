@@ -1,5 +1,5 @@
 # food-deliver-app
-This is a Food Deliver Application using Springboot + React + MongoDB. The app is deployed on Heroku : https://neu-eat.herokuapp.com/
+This is a Food Deliver Application using Springboot + React + MongoDB. 
 
 The App enables users to simulate among customer, driver and restaurant in a food delivery system.
 
